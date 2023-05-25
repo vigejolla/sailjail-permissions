@@ -1,0 +1,4 @@
+mkdir       ${HOME}/Bar
+noblacklist ${HOME}/Bar
+whitelist   ${HOME}/Bar
+
